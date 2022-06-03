@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer MERN & PHP+Laravel</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XNycX" alt="cristian"/> </p>
 
-- 🔭 I’m currently studying in GeeksHubs Academy - FullStack Developer
+- 🔭 I’m currently working in Gedesco Services - FullStack Developer
 
 - 💬 Ask me about **JavaScript (React, NodeJS), MongoDB , MySQL ,PHP (Laravel)**
 
